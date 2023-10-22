@@ -28,5 +28,5 @@ To run the IdeaSquare Automation System, you'll need:
 * Required Python libraries, which can be installed using pip.
 
 ## Contributors
-* [Prakhar Gupta](https://github.com/prax_1) - Project Lead
+* [Prakhar Gupta](https://github.com/prax-1) - Project Lead
 * [Bhavesh Jain]() - Project Lead
