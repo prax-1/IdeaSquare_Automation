@@ -12,3 +12,21 @@ The IdeaSquare Automation System is a software solution designed to streamline t
 * **Automation** : Implement automated workflows for common tasks, such as restocking low inventory items and generating reports.
 
 * **Logging and Reporting** : Keep a comprehensive log of all activities within the system and generate reports for analysis and decision-making.
+
+## Technologies Used
+
+* **Python** : The backend of the system is built using Python, providing the necessary functionality and automation capabilities.
+
+* **MongoDB** : MongoDB is used as the database to store component information and user data, offering scalability and flexibility.
+
+## Getting Started
+### Prerequisites
+
+To run the IdeaSquare Automation System, you'll need:
+* Python 3.x installed on your system.
+* MongoDB installed and running.
+* Required Python libraries, which can be installed using pip.
+
+## Contributors
+* [Prakhar Gupta](@prax-1) - Project Lead
+* [Bhavesh Jain]() - Project Lead
