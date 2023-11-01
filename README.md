@@ -26,6 +26,7 @@ To run the IdeaSquare Automation System, you'll need:
 * Python 3.x installed on your system.
 * MongoDB installed and running.
 * Required Python libraries, which can be installed using pip.
+* Node JS for connection
 
 ## Contributors
 * [Prakhar Gupta](https://github.com/prax-1/) - Project Lead
