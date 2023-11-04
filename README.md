@@ -19,6 +19,7 @@ The IdeaSquare Automation System is a software solution designed to streamline t
 
 * **MongoDB** : MongoDB is used as the database to store component information and user data, offering scalability and flexibility.
 
+* **Node JS** : Node JS will be used for connection and handling the network from front-end and back-end.
 ## Getting Started
 ### Prerequisites
 
