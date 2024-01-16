@@ -31,4 +31,4 @@ To run the IdeaSquare Automation System, you'll need:
 
 ## Contributors
 * [Prakhar Gupta](https://github.com/prax-1/) - Project Lead
-* [Bhavesh Jain](https://github.com/) - Project Lead
+* [Bhavesh Jain](https://github.com) - Project Lead
