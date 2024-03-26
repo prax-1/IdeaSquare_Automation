@@ -1,5 +1,6 @@
-import './Navbar.css'; // Import the CSS file for styling
-
+import './Navbar.css';
+// Import the CSS file for styling
+import {Link} from 'react-router-dom';
 export default function Navbar() {
   return (
     <nav className="navbar">
@@ -10,11 +11,10 @@ export default function Navbar() {
         </a>
 
         <div className="navbar-links">
-          <a href="#section_1">Home</a>
-          <a href="#section_2">Browse Topics</a>
-          <a href="#section_3">How it works</a>
-          <a href="#section_4">FAQs</a>
-          <a href="#section_5">Contact</a>
+          <Link className='items' id='jitem_1' to="/HOME">Home</Link>
+          <Link className='items' id='jitem_2' to="/CONTACTS">Contacts</Link>
+          <Link className='items' id='jitem_3' to="/EDIT">Edit</Link>
+          <Link className='items' id='jitem_4' to="/COMPONENTS">Ask For Component</Link>
         </div>
       </div>
     </nav>

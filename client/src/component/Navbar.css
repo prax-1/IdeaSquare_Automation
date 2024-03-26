@@ -2,10 +2,13 @@
     background : transparent;
     padding: 10px 0;
     font-family:cursive;
-    height: 5rem;
-    
-  
-  }
+    height: 4rem;
+    border-bottom: 2px solid transparent ; /* Border style */
+    box-shadow: 0 0 10px ;   
+    }
+    body {
+  overflow-y: hidden; /* Hide vertical scrollbar */
+}
   
   .container {
     display: flex;
@@ -35,13 +38,13 @@
     transform: translate(200px);
 }
   
-  .navbar-links a {
+  .items {
     color: #000000;
     text-decoration: none;
     margin-left: 40px;
   }
   
-  @media (max-width: 767px) {
+  @media (max-width: 567px) {
     .navbar-links {
       display: none;
     }

@@ -1,6 +1,6 @@
 .main {
-    background-image: radial-gradient(rgb(227, 234, 236),
-    #dfd9d9dc), url('./assets/background.jpg');   
+   
+  background-color: white;   
     color: #111010;
     min-height: 100vh;
     min-width: 195vh;
